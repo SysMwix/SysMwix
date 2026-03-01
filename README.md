@@ -35,10 +35,10 @@ I build and automate cloud infrastructure, with a focus on making deployments re
 
 ![SysMwix's GitHub streak](https://streak-stats.demolab.com?user=SysMwix&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SysMwix&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
-<p align="center">
-  <a href="https://blog.mwix.co.uk">Blog</a>
-</p>
+### Blog
+
+[![Blog](https://img.shields.io/badge/blog.mwix.co.uk-Read%20my%20blog-blue?style=for-the-badge&logo=cloudflare&logoColor=white)](https://blog.mwix.co.uk)
+
+I write about infrastructure, automation, and cloud engineering at **[blog.mwix.co.uk](https://blog.mwix.co.uk)**.
