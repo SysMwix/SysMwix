@@ -33,7 +33,9 @@ I build and automate cloud infrastructure, with a focus on making deployments re
 
 ### GitHub Stats
 
-![SysMwix's GitHub stats](https://github-readme-stats.vercel.app/api?username=SysMwix&show_icons=true&theme=github_dark&hide_border=true)
+![SysMwix's GitHub streak](https://streak-stats.demolab.com?user=SysMwix&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SysMwix&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
